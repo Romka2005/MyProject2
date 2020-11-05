@@ -1,5 +1,3 @@
-/*<link href="//db.onlinewebfonts.com/c/85272d2db514c0ccec8112b4e19a46c5?family=PF+Agora+Sans+Pro+Black" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap" rel="stylesheet">*/
 body{
 	margin: 0;
 	font-family: "PF Agora Sans Pro Black";
@@ -15,7 +13,6 @@ body{
 h1,h2,h3,h4,h5,h6{
 	margin:0;
 }
-/*container*/
 .container{
 	width:100%;
 	max-width:1230px;
@@ -29,7 +26,7 @@ h1,h2,h3,h4,h5,h6{
 	width:100%;
 	height:100vh;
 	position:relative;
-	background:url('https://image.freepik.com/free-vector/abstract-tech-sci-fi-hologram-frame-template-design-background_115579-397.jpg')center no-repeat;
+	background:url('bg1.jpg')center no-repeat;
 	-webkit-background-size:cover;
 	background-size:cover;
 }
